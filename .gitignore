@@ -1,0 +1,6 @@
+node_modules
+.env
+SCHEMA_MARIADB_APIREST_ESCOLA.mwb
+SCHEMA_MARIADB_APIREST_ESCOLA.mwb.bak
+table_api_alunos.sql
+
