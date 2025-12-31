@@ -242,7 +242,7 @@ npm run db:migrate
 npx sequelize db:migrate:undo
 ```
 
-## 💅 Padrão de Código
+## Padrão de Código
 
 Este projeto segue o **Airbnb JavaScript Style Guide** com algumas customizações:
 
@@ -274,7 +274,7 @@ Contribuições são sempre bem-vindas! Siga estas etapas:
 
 ## 📄 Licença
 
-Este projeto está sob a licença ISC. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
